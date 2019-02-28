@@ -34,6 +34,7 @@
 			<li><a href="php-1.11.php" target="_black"><?php echo "Class: php-1.11" ?></a></li>
 			<li><a href="php-1.12.php" target="_black"><?php echo "Class: php-1.12" ?></a></li>
 			<li><a href="php-1.13.php" target="_black"><?php echo "Class: php-1.13" ?></a></li>
+			<li><a href="php-1.14.php" target="_black"><?php echo "Class: php-1.14" ?></a></li>
 		</ul>
 	</div>
 
